@@ -1,13 +1,13 @@
 # Contributors
--[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
--[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
--[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
--[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
+- [Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
+- [Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
+- [abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
+- [Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
--[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
+- [Muhammad Ibrahim](https://github.com/ibrahimnd2000)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
 - [Hani Shaikh](https://github.com/Code-Hacker26)**2024/07/14**
 - [Sheikh Abdul Nisar](https://github.com/abdul-nishar)**And so my open source journey begins.**
